@@ -1,0 +1,12 @@
+== Forest Camp ==
+This program creates a visual scene using QT & OpenGl.
+It has been developed and tested to run on Dec-10 machines.
+
+
+== Running ==
+To run, open the terminal in the source Directory and run the following commands:
+
+module add qt
+qmake
+make
+./SolidCube
